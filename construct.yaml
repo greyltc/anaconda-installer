@@ -12,7 +12,7 @@ specs:
   - python 3.4* [win32]
   - python 3.5*  [not win32]
   - vs2010_runtime [win32]
-  - vc =10 [win32]
+  - vc 10* [win32]
   - conda
   - numpy
   - scipy
