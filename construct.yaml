@@ -3,9 +3,9 @@ version: 1.0
 install_in_dependency_order: True
 
 channels:
+  - http://conda.anaconda.org/conda-forge
   - http://repo.continuum.io/pkgs/free/
   - https://conda.anaconda.org/anaconda
-  - https://conda.anaconda.org/conda-forge
   - https://conda.anaconda.org/greyltc
 
 specs:
