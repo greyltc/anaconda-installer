@@ -15,7 +15,7 @@ specs:
   - scipy
   - gmpy2
   - matplotlib
-  - uncertanties
+  - uncertainties
   - pyvisa
 
 exclude:
