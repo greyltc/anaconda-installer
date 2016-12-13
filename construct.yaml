@@ -1,0 +1,21 @@
+name: pyenv
+version: 1.0
+install_in_dependency_order: True
+
+channels:
+  - http://repo.continuum.io/pkgs/free/
+  - https://conda.anaconda.org/anaconda
+  - https://conda.anaconda.org/greyltc
+
+specs:
+  - python 3.4* [win32]
+  - python 3.5*  [not win32]
+  - numpy
+  - scipy
+  - matplotlib
+  - uncertanties
+  - pyvisa
+
+exclude:
+  - menuinst
+  
