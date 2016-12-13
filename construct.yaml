@@ -25,4 +25,5 @@ specs:
 
 exclude:
   - menuinst
+  - tk
   
