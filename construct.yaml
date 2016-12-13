@@ -5,6 +5,7 @@ install_in_dependency_order: True
 channels:
   - http://repo.continuum.io/pkgs/free/
   - https://conda.anaconda.org/anaconda
+  - https://conda.anaconda.org/conda-forge
   - https://conda.anaconda.org/greyltc
 
 specs:
@@ -12,6 +13,7 @@ specs:
   - python 3.5*  [not win32]
   - numpy
   - scipy
+  - gmpy2
   - matplotlib
   - uncertanties
   - pyvisa
