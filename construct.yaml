@@ -22,6 +22,8 @@ specs:
   - pyvisa
   - qt >=5.0
   - pyqt >=5.0
+  - git
+  - setuptools
 
 exclude:
   - menuinst
