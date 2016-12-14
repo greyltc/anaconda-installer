@@ -16,7 +16,7 @@ specs:
   - conda
   - numpy
   - scipy
-  - gmpy2
+#  - gmpy2
   - matplotlib
   - uncertainties
   - pyvisa
@@ -26,6 +26,6 @@ specs:
   - setuptools
 
 exclude:
-  - menuinst
+#  - menuinst
   - tk
   
