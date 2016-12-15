@@ -16,7 +16,7 @@ specs:
   - conda
   - numpy
   - scipy
-#  - gmpy2
+  - gmpy2 [not win32]
   - matplotlib
   - uncertainties
   - pyvisa
