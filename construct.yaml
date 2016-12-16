@@ -26,7 +26,8 @@ specs:
   - setuptools
   - menuinst 1.3.2 [win32]
   - menuinst [not win32]
-
+  - mpmath
+  
 exclude:
   - tk
   
