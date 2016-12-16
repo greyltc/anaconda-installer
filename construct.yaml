@@ -20,6 +20,7 @@ specs:
   - matplotlib
   - uncertainties
   - pyvisa
+  - pyvisa-py
   - qt >=5.0
   - pyqt >=5.0
   - git
